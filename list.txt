@@ -66,3 +66,4 @@ um0m_mam3m0m1
 um0m_mam4m6
 um0m_mam2m0m0
 um0m_mam1m6m8
+1|0|3|2|1|u|0|_|a|3|2|1
